@@ -1,4 +1,4 @@
-name: GetScreen Windows (4H)
+name: monster
 
 on:
   workflow_dispatch:
